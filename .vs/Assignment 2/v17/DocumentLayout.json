@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|d:\\sem 4\\software quality assurance\\assignment 2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|d:\\sem 4\\software quality assurance\\assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:02:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
