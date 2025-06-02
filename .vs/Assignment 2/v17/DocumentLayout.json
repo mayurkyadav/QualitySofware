@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E578625-F733-4937-AA1B-9F705636E6A1}|..\\ecommercetests\\ecommercetests.csproj|d:\\sem 4\\software quality assurance\\ecommercetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|d:\\sem 4\\software quality assurance\\assignment 2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|d:\\sem 4\\software quality assurance\\assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D2B9741-B002-42BD-9275-E34A58F8E455}|Assignment 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,19 +30,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\SEM 4\\Software Quality Assurance\\ecommercetests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ecommercetests\\UnitTest1.cs",
+              "ToolTip": "D:\\SEM 4\\Software Quality Assurance\\ecommercetests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ecommercetests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:16:49.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T22:02:30.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEM 4\\Software Quality Assurance\\Assignment 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,8 +63,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:55:27.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T21:55:27.234Z"
             }
           ]
         }
