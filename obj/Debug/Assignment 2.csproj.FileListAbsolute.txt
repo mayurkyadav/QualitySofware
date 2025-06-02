@@ -1,0 +1,7 @@
+D:\SEM 4\Software Quality Assurance\Assignment 2\bin\Debug\Assignment 2.exe.config
+D:\SEM 4\Software Quality Assurance\Assignment 2\bin\Debug\Assignment 2.exe
+D:\SEM 4\Software Quality Assurance\Assignment 2\bin\Debug\Assignment 2.pdb
+D:\SEM 4\Software Quality Assurance\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+D:\SEM 4\Software Quality Assurance\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+D:\SEM 4\Software Quality Assurance\Assignment 2\obj\Debug\Assignment 2.exe
+D:\SEM 4\Software Quality Assurance\Assignment 2\obj\Debug\Assignment 2.pdb
